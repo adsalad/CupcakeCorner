@@ -9,8 +9,7 @@
 import SwiftUI
 
 
-//come back to solve alrt
-//then do other problems
+//solved
 struct CheckoutView: View {
     @ObservedObject var order: Order
     
@@ -77,9 +76,6 @@ struct CheckoutView: View {
                 } else {
                     print("Invalid response from server")
                 }
-            }
-            else {
-                self.noInternet = true
             }
            
         }.resume()
