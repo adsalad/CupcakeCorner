@@ -6,4 +6,4 @@ I initially wanted to learn more about URLSession and how to send objects of dat
 over the internet and recieve a response back. This would be a crucial first step in understanding
 how many of the apps we use in our daily lives work.
 
-![App Demo](CupcakeOrder/AppDemo.gif)
+![App Demo](AppDemo.gif)
